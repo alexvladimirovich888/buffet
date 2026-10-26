@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/bhenergy/:path*", "destination": "https://bhe-2026-investor-presentation.vercel.app/bhenergy/:path*" }
+  ]
+}
